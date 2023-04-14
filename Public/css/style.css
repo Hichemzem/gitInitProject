@@ -1,0 +1,47 @@
+body{
+     
+     /*background-image: url('../img/280.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: top left;
+     
+    */
+    background: url('../img/280.jpg') no-repeat top right;
+    background-size: 50%;
+    }
+
+#pfinal{
+    color: blueviolet;
+    font-size: 18px;
+    border: 3px solid;
+
+}
+
+.btn-valid{
+    border: 3px rgb(0, 128, 0);
+    background-color: #036600;
+    border-radius: 5px;
+    font-family: sans-serif ;
+    font-size: 22px ;
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+}
+
+.btn-valid:hover{
+    background-color: #36ff2f;
+}
+.ptest{
+    color: rgb(46, 46, 46);
+}
+
+h1{
+    font-style: oblique;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-decoration: underline;
+    background-color: blueviolet;
+    font-weight: bold;
+}
+
