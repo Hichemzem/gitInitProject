@@ -27,7 +27,7 @@
             <img src="public/img/280.jpg">            
             <p><?php echo $product['product_detail'] ?></p> 
             <button>Voir plus</button>
-            <a href="art_info.html">Detail</a>
+            <a href="art_info.html">Detailss</a>
         </div>  
         
         <?php }?>

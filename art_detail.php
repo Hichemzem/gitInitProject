@@ -28,11 +28,7 @@
             </tr>            
         </thead>
         <tbody>
-            <tr>
-                <td>article 1</td>
-                <td><img src="public/img/280.jpg" width="200"></td>
-                <td>400M</td>
-            </tr>
+           
             <tr>
                 <td>Article 2</td>
                 <td><img src="Public/img/280.jpg" width="200"></td>
